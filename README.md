@@ -1,0 +1,2 @@
+- 👋 Hi, I’m red-boiler!!
+- 👀 I am interested in programming and work on Python, I do it completely on my own and I will be glad of any advice
